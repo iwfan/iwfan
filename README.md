@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![iwfan's github stats](https://github-readme-stats.vercel.app/api?username=iwfan&show_icons=true)](https://github.com/iwfan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwfan&langs_count=8&layout=compact)](https://github.com/iwfan)
+
 <!--
 **iwfan/iwfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
