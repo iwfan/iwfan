@@ -1,6 +1,6 @@
-<p align="center"><b>Hi there! 👾, </b></p>
+<p align="center"><b>👾  Hi there!</b></p>
 
-<p align="center"><b>My Tech Stack 🧑🏻‍💻 </b></p>
+<p align="center"><b>🧑🏻‍💻  My Tech Stack</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
@@ -11,6 +11,7 @@
   <br />
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=Next.js" />
+  <img src="https://img.shields.io/badge/-Gatsby-%23663399?style=flat-square&logo=gatsby" />
   <img src="https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css" />
   <br />
   <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff" />
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff" />
 </p>
 
-<p align="center"><b>Learning 🤔 </b></p>
+<p align="center"><b>🤔  Learning</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=flat-square&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white" />
