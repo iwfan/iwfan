@@ -28,8 +28,8 @@
 <p align="center"><b>🤔  Learning</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=flat-square&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruby-%23000000.svg?&style=flat-square&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/ruby-%23000000.svg?&style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Serverless-%23FD5750?style=flat-square&logo=serverless&logoColor=ffffff" />
 </p>
