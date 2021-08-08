@@ -8,9 +8,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-Angular-%23E44D27?style=flat-square&logo=angular&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js" />
   <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js" />
+  <img src="https://img.shields.io/badge/-Angular-%23E44D27?style=flat-square&logo=angular&logoColor=ffffff" />
   <br />
   <img src="https://img.shields.io/badge/-JavaScript-%23f7a41d?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
