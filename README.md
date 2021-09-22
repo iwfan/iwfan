@@ -15,6 +15,3 @@
 - 📄 Know about my experiences [resume](https://github.com/iwfan/react-resume)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwfan&margin-w=15" alt="iwfan" /></a>
-
----
-🙏 Thanks to [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) and [1990-script](https://github.com/antfu/1990-script)
