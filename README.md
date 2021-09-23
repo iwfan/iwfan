@@ -1,5 +1,3 @@
-## iwfan
-
 🙋🏻‍ Hi, I'm iwfan (Chinese name: *fan.wang*) -- A JavaScript engineer.
 
 👇🏼 Here's your ticket number, It's free for you.
