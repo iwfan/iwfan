@@ -12,4 +12,4 @@
 
 <img src="https://profile-counter.glitch.me/iwfan/count.svg" />
 
-👉 And get into this [⚫️ black hole](https://iwfan.site/) to explor the unknown universe.
+👉 And get into this [⚫️ black hole](https://iwfan.notion.site/) to explor the unknown universe.
