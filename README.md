@@ -7,9 +7,3 @@
 - 📄 Know about my experiences [resume](https://github.com/iwfan/react-resume)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwfan&margin-w=15&no-frame=true&rank=A,AA,AAA,S,SS,SSS" alt="iwfan" /></a>
-
-👇🏼 Want something else? Here's your ticket, Take it.
-
-<img src="https://profile-counter.glitch.me/iwfan/count.svg" />
-
-👉 And get into this [⚫️ black hole](https://iwfan.notion.site/) to explor the unknown universe.
