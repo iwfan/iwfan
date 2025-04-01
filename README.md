@@ -3,7 +3,7 @@
 
 🙋🏻‍ Hi, I'm iwfan (Chinese name: *fan.wang*) -- A JavaScript engineer.
 
-- 🔭 I’m currently working on [@jinshuju](https://github.com/jinshuju), previously [@thoughtworks](https://github.com/thoughtworks).
+- 🔭 I’m currently working on null company, previously [@jinshuju](https://github.com/jinshuju) and [@thoughtworks](https://github.com/thoughtworks).
 
 - 👯 I’m looking to collaborate on [chore-cli](https://github.com/iwfan/chore-cli)
 
