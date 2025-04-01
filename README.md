@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on null company, previously [@jinshuju](https://github.com/jinshuju) and [@thoughtworks](https://github.com/thoughtworks).
 
-- 👯 I’m looking to collaborate on [chore-cli](https://github.com/iwfan/chore-cli)
-
-- 📄 Know about my experiences [resume](https://github.com/iwfan/react-resume)
+- 📄 Know about my experiences at [resume](https://iwfan.site/en/resume/)
 
 [![iwfan](https://github-readme-stats-xcanwin.vercel.app/api?username=iwfan&show_icons=true&hide_border=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
